@@ -6,7 +6,7 @@ import "math"
 const s string ="constant"
 
 func main(){
-	a:="asshole"
+	a:="How you doing?"
 	fmt.Println(s)
 	const n=5000000
 	const d = 3e20 / n
